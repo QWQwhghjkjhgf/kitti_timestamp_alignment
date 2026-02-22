@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+
 import numpy as np
 
 def replace_scientific_timestamps(tum_file, times_file, output_file):
